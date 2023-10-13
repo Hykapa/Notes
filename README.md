@@ -27,3 +27,4 @@ Server=localhost;Username=name_user;Database=name_db;Password=password;Port=5432
 
 клиент -- ng serve
 сервер -- откладка в IDE Visual Studio
+https://github.com/Hykapa/Notes
