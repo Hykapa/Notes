@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"not",
+				"noteId"
+			],
+			[
+				"dat",
+				"dateofcreation"
+			],
+			[
+				"date",
+				"dateofcreation"
+			],
+			[
+				"ne",
+				"new"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Елена/Desktop/notes-main/src/main.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/reminder-card/reminder-card.component.html",
+		"/C/Users/Елена/Desktop/notes-main/.editorconfig",
+		"/C/Users/Елена/Desktop/notes-main/angular.json",
+		"/C/Users/Елена/Desktop/openTv-main/src/index.html",
+		"/C/Users/Елена/Desktop/qwe/tv/next.config.js",
+		"/C/Users/Елена/Desktop/openTv-main/ngsw-config.json",
+		"/C/Users/Елена/Desktop/qwe/tv/.eslintrc.json",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/tag-details/tag-details.component.ts",
+		"/C/Users/Елена/Desktop/Netflix-Clone-master/.eslintrc.cjs",
+		"/C/Users/Елена/Desktop/notes-main/src/app/models/note.model.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/reminder-details/reminder-details.component.html",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/notes/notes.component.html",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/reminders/reminders.component.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/services/notes.service.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/reminder-card/reminder-card.component.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/note-card/note-card.component.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/reminder-details/reminder-details.component.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/reminder-details/reminder-details.component.spec.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/note-details/note-details.component.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/note-card/note-card.component.html",
+		"/C/Users/Елена/Desktop/notes-main/src/app/note-card/note-card.component.scss",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/reminders/reminders.component.scss",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/main-layout/main-layout.component.html",
+		"/C/Users/Елена/Desktop/notes-main/src/app/models/tag.model.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/models/notetag.model.ts",
+		"/C/Users/Елена/Desktop/notes-main/src/app/note-card/note-card.component.spec.ts",
+		"/C/Users/Елена/Desktop/notes-main/tsconfig.spec.json",
+		"/C/Users/Елена/Desktop/notes-main/tsconfig.json",
+		"/C/Users/Елена/Desktop/notes-main/tsconfig.app.json",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/tag-details/tag-details.component.scss",
+		"/C/Users/Елена/Desktop/notes-main/src/app/pages/tag-details/tag-details.component.html",
+		"/C/Users/Елена/Desktop/notes-main/package.json",
+		"/C/Users/Елена/Desktop/NotesApp-master/notesapp.frontend/.editorconfig",
+		"/C/Users/Елена/Desktop/notes-main/API/Web-API/Web-API/Properties/launchSettings.json",
+		"/C/Users/Елена/Desktop/notes-main/API/Web-API/Web-API/obj/project.assets.json",
+		"/C/Users/Елена/Desktop/notes-main/API/Web-API/Web-API/appsettings.json",
+		"/C/Users/User/Desktop/545/Data/Packages/User/LocalizedMenu.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Web-API.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

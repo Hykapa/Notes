@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\models",
+    "\\app\\pages",
+    "\\app\\pages\\main-layout"
+  ],
+  "SelectedNode": "\\app\\pages\\main-layout\\main-layout.component.ts",
+  "PreviewInSolutionExplorer": false
+}
